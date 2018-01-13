@@ -1,0 +1,55 @@
+body {
+    background-color: #ededed;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 80px;    
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 100px;
+    background-color: white;    
+}
+
+#name {
+    color: white;
+    background-color: darkcyan;
+    width: 300px;
+    text-align: center;
+    height: 80px;
+}
+
+h1 {
+    padding: 5px;
+}
+
+nav {
+    color: gray;
+    background-color: yellow;
+    height: 50px;    
+    width: fit-content;
+    /*margin-left: 50%;*/
+    margin-left: 40%;
+    height: 20px;
+    font-size: 20px;   
+}
+
+
+#name,
+nav {
+    display: inline-block;
+}
+
+a:visited {
+    text-decoration:none; color:black;
+}
+
+
+footer {
+    position:fixed;
+    width:100%;
+    bottom:0;
+    height:35px;
+    background-color: #115EA2;
+}
