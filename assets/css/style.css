@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    height: 80px;    
+    height: 100px;    
     margin-top: 50px;
     margin-left: 10%;
     margin-right: 100px;
@@ -17,7 +17,7 @@ header {
     background-color: darkcyan;
     width: 300px;
     text-align: center;
-    height: 80px;
+    height: 100px;
 }
 
 h1 {
@@ -25,25 +25,23 @@ h1 {
 }
 
 nav {
-    color: gray;
-    background-color: yellow;
+    color: gray;    
     height: 50px;    
     width: fit-content;
-    /*margin-left: 50%;*/
     margin-left: 40%;
     height: 20px;
     font-size: 20px;   
 }
-
 
 #name,
 nav {
     display: inline-block;
 }
 
-a:visited {
-    text-decoration:none; color:black;
+a {
+    text-decoration-line: none;
 }
+
 
 
 footer {
