@@ -210,7 +210,3 @@ input[type=submit]:hover {
 .links-no-underline {
     text-decoration: none;
 }
-
-a {
-    color: white;
-}
