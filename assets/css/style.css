@@ -206,3 +206,7 @@ input[type=submit]:hover {
     text-align: center;
     margin-bottom: 20px;
 }
+
+.links-no-underline {
+    text-decoration: none;
+}
