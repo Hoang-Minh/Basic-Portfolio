@@ -87,10 +87,13 @@ img {
 }
 
 footer {
-    clear: right;
+    clear: right;    
     background-color: #4aaaa5;
     margin-top: 100px;    
-    border-style: groove;    
+    border-style: groove;
+    /* position: fixed;
+    bottom: 0;
+    width: 100%;     */
 }
 
 #copyright {    
