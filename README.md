@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive Portfolio - without Bootstrap
+# Basic-Portfolio
+Basic-Portfolio - without Bootstrap
